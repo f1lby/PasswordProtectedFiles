@@ -1,5 +1,5 @@
 Here are a bunch of password protected files for the purpose of being broken open.
-The password that protects them is not complex, and armed with the right tools should be easy to crack and is the same for all files.
+The password that protects them is not complex, and armed with the right tools should be easy to crack and is the same password for all files.
 
 These files are purely for your own personal self-training and study learning how to use cracking tools.
 
