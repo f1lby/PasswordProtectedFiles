@@ -1,4 +1,5 @@
-Here are a bunch of password protected files for the purpose of being broken open. There also some network device passwords to play with too.
+Here are a bunch of password protected files for the purpose of being broken open. There also some network device passwords to play with too.<br>
+All for you to learn and hone your skills with regard to using password cracking tools.
 
 The password that protects them is not complex, and armed with the right tools should be easy to crack and is the same password for all files.
 
@@ -58,3 +59,4 @@ is
 
 
 12345678
+
